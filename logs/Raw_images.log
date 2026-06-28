@@ -1,0 +1,51 @@
+2026-03-26 07:26:59,279 - script_name - INFO - Downloading [car] -> car traffic street
+2026-03-26 07:27:47,201 - script_name - INFO - Downloading [car] -> car highway night
+2026-03-26 07:28:27,123 - script_name - INFO - Downloading [car] -> car parking lot
+2026-03-26 07:29:21,960 - script_name - INFO - Downloading [car] -> car rainy weather
+2026-03-26 07:30:01,613 - script_name - INFO - Downloading [car] -> car accident scene
+2026-03-26 07:30:42,068 - script_name - INFO - Downloading [car] -> car rural road
+2026-03-26 07:31:34,326 - script_name - INFO - Downloading [car] -> traffic with cars bikes and people
+2026-03-26 07:33:36,219 - script_name - INFO - Downloading [bike] -> motorcycle traffic street
+2026-03-26 07:34:22,654 - script_name - INFO - Downloading [bike] -> bike racing track
+2026-03-26 07:35:19,236 - script_name - INFO - Downloading [bike] -> bike parking area
+2026-03-26 07:36:20,107 - script_name - INFO - Downloading [bike] -> bike night road
+2026-03-26 07:37:42,403 - script_name - INFO - Downloading [bike] -> person riding bike helmet
+2026-03-26 07:38:29,916 - script_name - INFO - Downloading [bike] -> person riding bike without helmet
+2026-03-26 07:39:44,723 - script_name - INFO - Downloading [person] -> person walking street
+2026-03-26 07:41:09,699 - script_name - INFO - Downloading [person] -> crowd people market
+2026-03-26 07:42:35,328 - script_name - INFO - Downloading [person] -> person sitting indoor
+2026-03-26 07:43:48,306 - script_name - INFO - Downloading [person] -> people working office
+2026-03-26 07:44:56,058 - script_name - INFO - Downloading [person] -> group of people outdoor
+2026-03-26 07:45:28,888 - script_name - INFO - Downloading [person] -> traffic pedestrians crossing
+2026-03-26 07:45:29,115 - script_name - INFO - Downloading [helmet] -> motorcycle rider wearing helmet
+2026-03-26 07:45:29,353 - script_name - INFO - Downloading [helmet] -> construction worker helmet
+2026-03-26 07:45:29,638 - script_name - INFO - Downloading [helmet] -> helmet safety gear close up
+2026-03-26 07:45:29,879 - script_name - INFO - Downloading [helmet] -> person wearing helmet bike
+2026-03-26 07:45:30,191 - script_name - INFO - Downloading [jacket] -> person wearing jacket winter
+2026-03-26 07:45:30,449 - script_name - INFO - Downloading [jacket] -> leather jacket street fashion
+2026-03-26 07:45:30,674 - script_name - INFO - Downloading [jacket] -> people wearing jackets outdoor
+2026-03-26 07:45:30,881 - script_name - INFO - Downloading [jacket] -> cold weather clothing jacket
+2026-03-26 07:45:31,123 - script_name - INFO - Downloading [fire] -> fire flames close up
+2026-03-26 07:45:31,331 - script_name - INFO - Downloading [fire] -> house fire accident
+2026-03-26 07:45:31,553 - script_name - INFO - Downloading [fire] -> forest fire smoke
+2026-03-26 07:45:31,787 - script_name - INFO - Downloading [fire] -> small fire burning
+2026-03-26 07:45:32,611 - script_name - INFO - Downloading [fire] -> fire night scene
+2026-03-26 07:46:39,791 - script_name - INFO - Downloading [smoke] -> industrial smoke pollution
+2026-03-26 07:47:48,435 - script_name - INFO - Downloading [smoke] -> black smoke fire
+2026-03-26 07:48:43,792 - script_name - INFO - Downloading [smoke] -> white smoke isolated
+2026-03-26 07:49:41,671 - script_name - INFO - Downloading [smoke] -> smoke without fire
+2026-03-26 07:50:39,832 - script_name - INFO - Downloading [smoke] -> air pollution smoke city
+2026-03-26 07:51:50,394 - script_name - INFO - car: 103 images before trimming
+2026-03-26 07:51:50,401 - script_name - INFO - car: 103 images after trimming
+2026-03-26 07:51:50,401 - script_name - INFO - bike: 84 images before trimming
+2026-03-26 07:51:50,401 - script_name - INFO - bike: 84 images after trimming
+2026-03-26 07:51:50,405 - script_name - INFO - person: 93 images before trimming
+2026-03-26 07:51:50,406 - script_name - INFO - person: 93 images after trimming
+2026-03-26 07:51:50,406 - script_name - INFO - helmet: 38 images before trimming
+2026-03-26 07:51:50,406 - script_name - INFO - helmet: 38 images after trimming
+2026-03-26 07:51:50,441 - script_name - INFO - jacket: 0 images before trimming
+2026-03-26 07:51:50,443 - script_name - INFO - jacket: 0 images after trimming
+2026-03-26 07:51:50,443 - script_name - INFO - fire: 66 images before trimming
+2026-03-26 07:51:50,443 - script_name - INFO - fire: 66 images after trimming
+2026-03-26 07:51:50,443 - script_name - INFO - smoke: 54 images before trimming
+2026-03-26 07:51:50,443 - script_name - INFO - smoke: 54 images after trimming

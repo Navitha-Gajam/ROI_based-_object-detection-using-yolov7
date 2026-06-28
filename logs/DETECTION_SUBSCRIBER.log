@@ -1,0 +1,2 @@
+2026-06-10 18:31:19,193 - DETECTION_SUBSCRIBER - ERROR - Initialization Error : 
+2026-06-10 18:31:19,194 - DETECTION_SUBSCRIBER - ERROR - Start Error : 'DetectionSubscriber' object has no attribute 'channel'
