@@ -1,0 +1,30 @@
+{
+    "camera1": {
+        "camera_name": "c1",
+        "camera_id": 1121,
+        "camera_ip": "192.168.172.11",
+        "camera_feed": "D:\\DataScience Projects\\ComputerVision\\videos\\v1.mp4",
+        "camera_outcome": ["car", "bike"]
+    },
+    "camera2": {
+        "camera_name": "c2",
+        "camera_id": 1122,
+        "camera_ip": "192.168.172.12",
+        "camera_feed": "D:\\DataScience Projects\\ComputerVision\\videos\\v2.mp4",
+        "camera_outcome": ["fire", "smoke"]
+    },
+    "camera3": {
+        "camera_name": "c3",
+        "camera_id": 1123,
+        "camera_ip": "192.168.172.13",
+        "camera_feed": "D:\\DataScience Projects\\ComputerVision\\videos\\v3.mp4",
+        "camera_outcome": ["jacket", "helmet"]
+    },
+    "camera4": {
+        "camera_name": "c4",
+        "camera_id": 1124,
+        "camera_ip": "192.168.172.14",
+        "camera_feed": "D:\\DataScience Projects\\ComputerVision\\videos\\v4.mp4",
+        "camera_outcome": ["person"]
+    }
+}
